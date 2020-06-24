@@ -1,0 +1,11 @@
+*.zip
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+/out/
+/**/out/
+.shelf/
+.ideaDataSources/
+dataSources/
